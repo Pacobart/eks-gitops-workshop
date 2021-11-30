@@ -8,6 +8,8 @@ We will configure Flux to install, test and upgrade a demo app using
 Flux will monitor the Helm repository, and it will automatically
 upgrade the Helm releases to their latest chart version based on semver ranges.
 
+Workshop instructions: https://catalog.us-east-1.prod.workshops.aws/v2/workshops/ca9c9103-adee-46d9-bf91-f0e8d5e21b1b/en-US/
+
 ## Prerequisites
 
 You will need a Kubernetes cluster version 1.16 or newer and kubectl version 1.18.
