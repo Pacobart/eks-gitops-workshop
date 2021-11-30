@@ -5,7 +5,7 @@ metadata:
   namespace: default
 spec:
   name: "eks-gitops-workshop-190325212217"
-    tagging:
+  tagging:
     tagSet:
     - key: application
       value: podinfo
